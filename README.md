@@ -1,2 +1,1 @@
-# 001
-001
+file:///C:/Users/INSA/Desktop/tedy/tedy.html
